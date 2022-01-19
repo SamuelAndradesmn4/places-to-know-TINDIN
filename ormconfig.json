@@ -1,0 +1,10 @@
+{
+  "type": "mongodb",
+  "host": "localhost",
+  "port": 27017,
+  "database": "placestoknow",
+  "useUnifiedTopology": true,
+  "entities": [
+    "src/modules/**/schemas/*.ts"
+  ]
+}
