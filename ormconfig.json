@@ -1,6 +1,6 @@
 {
   "type": "mongodb",
-  "host": "localhost",
+  "host": "0.0.0.0",
   "port": 27017,
   "database": "placestoknow",
   "useUnifiedTopology": true,
